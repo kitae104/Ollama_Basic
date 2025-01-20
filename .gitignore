@@ -1,2 +1,4 @@
 ollama/
 DarkIdol-Llama-3.1-8B-Instruct-1.2-Uncensored.Q2_K.gguf
+ggml-model-Q4_K_M.gguf
+.env
